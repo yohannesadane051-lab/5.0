@@ -1,3 +1,0 @@
-streamlit
-gspread
-google-auth
